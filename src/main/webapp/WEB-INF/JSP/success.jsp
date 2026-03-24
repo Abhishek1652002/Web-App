@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Spring MVC Projec</title>
+<title>Spring MVC Project</title>
 </head>
 <body bgcolor="pink">
 
